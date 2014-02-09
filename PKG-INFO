@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: AzureTableStore
+Version: 1.0
+Summary: A weather forecast engine on Azure
+Home-page: http://www.asthmaccurate.cloudapp.net
+Author: Abhishek Dey
+Author-email: abhishekde@hotmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: azure
