@@ -11,6 +11,6 @@ while true
 do
 now=$(date +"%M")
 if [ $(( $now % 10  )) -eq "0" ]; then
-    python AzureTableStore.py
+    python /home/abhishek/AzureWorkerRole/AzureTableStore.py
 fi
 done
