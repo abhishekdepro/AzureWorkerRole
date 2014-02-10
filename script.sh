@@ -10,7 +10,7 @@ p=$now
 while true
 do
 now=$(date +"%M")
-if [ $(( $now % 2  )) -eq "0" ]; then
+if [ $(( $now % 10  )) -eq "0" ]; then
     python AzureTableStore.py
 fi
 done
